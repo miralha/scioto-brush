@@ -24,8 +24,8 @@ Criteria 2: Roads are permissible within 300 feet of the river but may not compr
 
 Findings: Does not meet Criteria 2. The roads within 300 feet of the Scenic River segment are 27.4% of the proposed Scenic River segment length. Specifically, we found that a total of 57 road segments intersected the 300 feet buffer from the stream (Figure 1). The total road length within 300 ft was 18.82 km, while the scenic stream segment length is 68.59 km. Because the percentage is very close to the 25% recommended, we recommend exception to Criteria 2. Alessandra Bertucci and Jalen Smith, both master students in Ecological Engineering at Ohio State University, performed this analysis using the Ohio Department of Transportation Road segment dataset.
 
- 
-(See Criteria 2 - Road Segment file) Figure 1	 Map illustrates that major roads intersect with both the Scioto Brush Creek and South Fork river segments. 
+ ![alt text](https://github.com/miralha/scioto-brush/blob/main/Criteria%202%20-%20Road%20Segments.png)
+Figure 1	 Map illustrates that major roads intersect with both the Scioto Brush Creek and South Fork river segments. 
 
 Criteria 4: Some commercial, industrial and other types of development may occur within 300 feet of the river.  However, this development shall not be of such a density as to negatively impact the habitat and quality of the stream and its floodplain.  No more than 10% percent of the river’s watershed upstream and adjacent to the scenic river segment may be covered with impervious surfaces at the time of designation.  If the upstream and adjacent watershed is at 10% impervious cover and is contained within an urbanizing area, then that river segment may not be considered for designation. 
 
