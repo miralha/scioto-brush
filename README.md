@@ -31,7 +31,8 @@ Criteria 4: Some commercial, industrial and other types of development may occur
 
 Findings: Meets Criteria 4. Figure 2 illustrates the overall land use percentage category for the entire watershed. Some commercial buildings occur within 300 feet of the proposed Scenic River segment, but most of the development is of low intensity. The most populated area is the upstream portion of the watershed in the first 10 miles of the river segment. Approximately 6.7% of the Scioto Brush Creek’s adjacent and upstream watershed has impervious surfaces. Therefore, development in the watershed does not exceed the 10% recommended. This analysis was performed by Layla Ramsey, undergraduate honors student at Ohio State University, using the 2023 National Land Cover Database.
  
-(See Criteria 4 and 5 - Land Use Analysis) Figure 2	Watershed and buffer scale analysis of the land use categories occupying the upstream and adjacent areas of both the Scioto Brush Creek and the South Fork river segments for scenic designation. 
+![alt text](https://github.com/miralha/scioto-brush/blob/main/Criteria%204%20and%205%20-%20Land%20Use%20Analysis.png)
+Figure 2	Watershed and buffer scale analysis of the land use categories occupying the upstream and adjacent areas of both the Scioto Brush Creek and the South Fork river segments for scenic designation. 
 
 Criteria 5: The area adjacent to at least 25% of the stream length, considering both banks, shall be in native forest or wetland, outward from the river to a depth of 300 feet or greater.  In addition, 50% of the remaining corridor shall be in native forest or wetland outward from the river to a depth of 120 feet or greater.
 
